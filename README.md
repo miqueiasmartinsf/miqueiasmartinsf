@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqueiasmartinsf&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasmartinsf&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqueiasmartinsf&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasmartinsf&layout=compact&theme=merko)
 
