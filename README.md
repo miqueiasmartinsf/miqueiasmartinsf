@@ -7,6 +7,8 @@
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=miqueiasmartinsf&show_icons=true&theme=transparent"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasmartinsf&layout=compact&theme=transparent"/>
-  
+</div>
+<div>
+  <figure><embed src="https://wakatime.com/share/@602ae701-e4d7-4e8d-a963-306950b7a4ce/b3d008ab-b287-41fb-a8c1-e20079d6ec38.svg"></embed></figure>
 </div>
 
