@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-🔭 I’m looking to collaborate on<br>🌱 I’m currently learning C#, .NET<br>💬 Ask me about web development
+🔭 I’m looking to collaborate on<br>🌱 I’m currently learning C#, .NET<br>💬 Ask me about web development<br>👨‍💻 I'm cibersecurity enthusiast
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miquéias-martins-015b40274) 
