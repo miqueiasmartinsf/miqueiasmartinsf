@@ -1,6 +1,7 @@
 ### Welcome to my profile! 
 
-I'm a technology enthusiast with a fervent passion for creating innovative solutions. I'm constantly on the lookout for challenges that allow me to expand my horizons and enhance my skills.
+I'm a technology enthusiast with a fervent passion for creating innovative solutions.
+I'm constantly on the lookout for challenges that allow me to expand my horizons and enhance my skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miquéias-martins-015b40274) 
