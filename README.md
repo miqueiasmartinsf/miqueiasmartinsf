@@ -1,6 +1,6 @@
 ### Welcome to my profile! 
 
-I'm a technology enthusiast with a fervent passion for creating innovative solutions.
+I'm a technology enthusiast with a fervent passion for creating innovative solutions.<br>
 I'm constantly on the lookout for challenges that allow me to expand my horizons and enhance my skills.
 
 ## 🌐 Socials:
