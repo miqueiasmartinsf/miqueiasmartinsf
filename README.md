@@ -25,6 +25,7 @@ I'm constantly on the lookout for challenges that allow me to expand my horizons
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 # 📊 Stats:
 <div>
   <img height="420cm" src="https://wakatime.com/share/@602ae701-e4d7-4e8d-a963-306950b7a4ce/86ffd0ab-bbf1-486d-a7ad-b126a35056f2.svg"/><br/>
