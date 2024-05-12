@@ -1,7 +1,12 @@
 ### Welcome to my profile! 
 
-I'm a technology enthusiast with a fervent passion for creating innovative solutions.<br>
-I'm constantly on the lookout for challenges that allow me to expand my horizons and enhance my skills.
+🌱 Exploring new technologies and skills
+
+💬 Ask me about: Technology, music, sports, travel experiences
+
+🔭 I’m currently learning C#, .NET
+
+👨‍💻 I'm passionate about cybersecurity topics.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miquéias-martins-015b40274) 
