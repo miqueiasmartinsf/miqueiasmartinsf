@@ -9,7 +9,7 @@
 👨‍💻 I'm passionate about cybersecurity topics.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miquéias-martins-015b40274) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqueiasmartinsf) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:miqueias.martinsf@gmail.com)
 
 # 💻 Tech Stack:
