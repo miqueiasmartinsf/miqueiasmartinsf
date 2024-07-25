@@ -1,7 +1,7 @@
 ### Welcome to my profile! 
 
 🌱 Exploring new technologies and skills   
-   
+    
 💬 Ask me about: Technology, music, sports, travel experiences 
   
 🔭 I’m currently learning C#, .NET 
