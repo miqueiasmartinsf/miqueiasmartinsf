@@ -1,6 +1,6 @@
 ### Welcome to my profile!  
  
-🌱 Exploring new technologies and skills        
+🌱 Exploring new technologies and skills         
        
 💬 Ask me about: Technology, music, sports, travel experiences   
    
