@@ -6,6 +6,10 @@
    
 🔭 I’m currently learning C#, .NET 
 
+🎓 Graduated in Systems Analysis and Development at FIAP
+
+🌍 Languages: Portuguese (Native), English, and French
+
 👨‍💻 I'm passionate about cybersecurity topics.
  
 ## 🌐 Socials:
