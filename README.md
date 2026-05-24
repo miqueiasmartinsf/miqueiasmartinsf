@@ -8,7 +8,7 @@
 
 🎓 Graduated in Systems Analysis and Development at FIAP
 
-🌍 Languages: Portuguese (Native), English, and French
+🌍 Portuguese, English, and French speaker
 
 👨‍💻 I'm passionate about cybersecurity topics.
  
